@@ -3,10 +3,17 @@
     <channel>
         <title><![CDATA[Golf 2015]]></title>
         <description><![CDATA[Golf 2015]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/golf-2015/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Sep 2015 21:15:06 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 09 Sep 2015 21:21:53 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/golf-2015/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Wolf Run Golf Course]]></title>
+            <description><![CDATA[<article><h1>Wolf Run Golf Course</h1><img src="http://d1emtizlin66vw.cloudfront.net/files/cache/2015/09/coursePhoto6/532883811.jpg"></article>]]></description>
+            <link>https://thegrid.ai/golf-2015/2265fe59-8547-4bc1-8c92-4de434931702/index.html</link>
+            <guid isPermaLink="false">2265fe59-8547-4bc1-8c92-4de434931702</guid>
+            <pubDate>Wed, 09 Sep 2015 21:21:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Wolf Run Golf Club | Reno, NV]]></title>
             <description><![CDATA[<article><h1>Wolf Run Golf Club | Reno, NV</h1><p>Reno, NV</p><img src="http://d2tbfnbweol72x.cloudfront.net/3301/files/2014/02/homepageimage4.jpg"></article>]]></description>
