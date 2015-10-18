@@ -1,7 +1,7 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+cta:
+  bucket: null
+  version: null
+  domain: null
 name: Golf 2015
 opengraph:
   image: null
@@ -13,12 +13,12 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 purpose:
   - name: awareness
     url: null
@@ -27,17 +27,17 @@ typography_spectrum: 0.937276
 color:
   saturation: 0.8596177
   brandStrength: 0.5
-  lightness: 0.3709678
+  rhythmicContrast: 0.4844683
   brandColors:
     - '#fffffb'
     - '#141915'
     - '#687933'
     - '#ed8f52'
     - '#8cc3fb'
-  rhythmicContrast: 0.4844683
-layout_spectrum: 0.8918757
-cta:
-  bucket: null
-  version: null
-  domain: null
+  lightness: 0.3709678
+layout_spectrum: 0.6469534
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 favicon: null
