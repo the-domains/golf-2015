@@ -1,7 +1,4 @@
-cta:
-  bucket: null
-  version: null
-  domain: null
+favicon: null
 name: Golf 2015
 opengraph:
   image: null
@@ -13,31 +10,34 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 purpose:
   - name: awareness
     url: null
     item: dd3dd31c-dae5-4aff-a3b9-bce45ac66f76
-typography_spectrum: 0.937276
 color:
-  saturation: 0.8596177
+  saturation: 0.7401433
   brandStrength: 0.5
-  rhythmicContrast: 0.4844683
+  lightness: 0.4988052
   brandColors:
     - '#fffffb'
     - '#141915'
     - '#687933'
     - '#ed8f52'
     - '#8cc3fb'
-  lightness: 0.3709678
+  rhythmicContrast: 1
+typography_spectrum: 0.937276
+cta:
+  bucket: null
+  version: null
+  domain: null
 layout_spectrum: 0.6469534
 analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
