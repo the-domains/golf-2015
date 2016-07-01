@@ -32,6 +32,7 @@ color:
     - '#8cc3fb'
   rhythmicContrast: 1
 typography_spectrum: 0.937276
+style: the-composer
 cta:
   bucket: null
   version: null
